@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class Stairs {
     public static void main(String[] args) {
         int[] cost = { 10, 15, 20,30,25,40,35 };
-        int n = cost.length;
+        // int n = cost.length;
 
         // System.out.println(Math.min(helper(n - 1, cost), helper(n - 2, cost)));
 
